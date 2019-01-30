@@ -1,0 +1,11 @@
+[package]
+name = "morningtourust"
+version = "0.2.0"
+authors = ["Stephan Goeppentin <dedda102@gmail.com>"]
+edition = "2018"
+description = "small generator for german swear words."
+license = "LGPL-3.0"
+
+[dependencies]
+reqwest = "0.9.9"
+rand = "0.6.5"
